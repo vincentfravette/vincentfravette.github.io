@@ -3662,6 +3662,10 @@ figcaption {
 .post-rich-text p {
     padding-right: 16%;
     padding-left: 16%;
+    margin-top: 30px;
+    font-size: 2rem;
+    font-weight: 500;
+    color: #354559;
 }
 .work-date {
     position: absolute;
